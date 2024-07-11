@@ -1,6 +1,6 @@
 # Clearing bubbles and translating them
 
-This project is made for manga/manhwa/webtoons and its main purpose is to clear the contaiment of the bubble and translate it. Demonstration:
+This project is made for manga/manhwa/webtoons and its main purpose is to clear the contaiment of the bubble and translate it. Demonstration (video):
 [![Demonstration (video)](http://img.youtube.com/vi/POCjIIV1q2I/0.jpg)](http://www.youtube.com/watch?v=POCjIIV1q2I)
 
 ## Usage
