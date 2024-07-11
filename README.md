@@ -49,6 +49,8 @@ To put it simply, we use 2 models:
 2) Second one takes the piece from the first model and finds text on it.
 
 After that we just use the coordinates of found bound and fill it
+![image](https://github.com/NELKIO/manga-cleaner-and-typer-fast-website/assets/105226748/fb9384ab-7825-49ca-a923-e677e497a67b)
+
 For fill you can choose from two variants:
 * Plain color, you can choose for you own, but at the setup program will automatically choose the best variant. Better to choose this variant then you are working with plain-colored bubbles
 * *Smart* variant from OpenCV library, that fills space by itself.
