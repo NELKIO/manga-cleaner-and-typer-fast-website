@@ -9,7 +9,7 @@ Clone the GitHub project into your computer
 
 ```bash
 # Clone the repository
-git clone https://github.com/AnnaSusak/textInBubbleDetecting
+git clone https://github.com/NELKIO/manga-cleaner-and-typer-fast-website
 ```
 
 Install libraries from *requirements.txt*
