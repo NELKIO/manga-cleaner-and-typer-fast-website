@@ -52,7 +52,10 @@ data = {
     "yandexPassportOauthToken": api_keys['yandex']
 }
 
-yandex_token = 'Bearer ' + requests.post(url, json=data).json()['iamToken']
+try:
+    yandex_token = 'Bearer ' + requests.post(url, json=data).json()['iamToken']
+except Exception:
+    pass
 
 GOOGLE_SYMBOL_CODES = {
     '&#39;' : "'",
